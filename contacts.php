@@ -10,7 +10,7 @@
     
     <label>Message</label>
     <textarea name="message">
-    
+    </textarea>
     
 </form>
 <?php
